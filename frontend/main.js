@@ -15,5 +15,5 @@ const getVistCount = () => {
     }).catch(function(error){
         console.log(error);
     });
-    return count:
+    return count;
 }
